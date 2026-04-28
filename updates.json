@@ -1,0 +1,14 @@
+{
+    "softs": [
+        {
+            "id": "domain_extractor",
+            "version": "2.0.0",
+            "download_url": "https://github.com/bstoresdota-tech/softs/raw/main/DomainExtractorPro.exe"
+        },
+        {
+            "id": "uber_checker",
+            "version": "2.0.0",
+            "download_url": "https://github.com/bstoresdota-tech/softs/raw/main/UberChecker.exe"
+        }
+    ]
+}
