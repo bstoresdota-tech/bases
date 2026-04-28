@@ -1,0 +1,25 @@
+{
+    "bases": [
+        {
+            "name": "📁 База данных: Стандарт #1",
+            "date": "28.04.2026",
+            "size": "300 MB",
+            "download_url": "https://mega.nz/file/HvRh0BhS#VYzDQMBnJm-CMvnNfcnwSXhPrAi351u6jRktWpsewuI",
+            "premium": false
+        },
+        {
+            "name": "💎 ПРЕМИУМ: Расширенная база",
+            "date": "28.04.2026",
+            "size": "500 MB",
+            "download_url": "https://mega.nz/file/TzAz0TJS#zwES15J4mpAxO0lDXP3hUZ263LD3NDXlXk4842TFCFY",
+            "premium": true
+        },
+        {
+            "name": "📁 База данных: Стандарт #2",
+            "date": "28.04.2026",
+            "size": "250 MB",
+            "download_url": "https://mega.nz/file/uvol2LLS#dex-6s1Dmjye3cppPX6AA2WkKyN-jkgyrAKdEu7-lu4",
+            "premium": false
+        }
+    ]
+}
