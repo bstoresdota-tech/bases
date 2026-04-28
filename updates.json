@@ -2,7 +2,7 @@
     "softs": [
         {
             "id": "domain_extractor",
-            "version": "2.0.0",
+            "version": "2.1.0",
             "download_url": "https://github.com/bstoresdota-tech/softs/raw/main/DomainExtractorPro.exe"
         },
         {
