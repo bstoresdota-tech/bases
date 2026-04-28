@@ -1,0 +1,22 @@
+{
+    "softs": [
+        {
+            "id": "domain_extractor",
+            "name": "🧩 Domain Extractor Pro",
+            "description": "Filter and sort databases by domain",
+            "exe_path": "Apps/DomainExtractorPro/DomainExtractorPro.exe",
+            "version": "2.1.0",
+            "enabled": true,
+            "premium": false
+        },
+        {
+            "id": "uber_checker",
+            "name": "🚗 Uber Checker",
+            "description": "Check Uber accounts (email:pass → sid)",
+            "exe_path": "Apps/UberChecker/UberChecker.exe",
+            "version": "2.0.0",
+            "enabled": true,
+            "premium": true
+        }
+    ]
+}
