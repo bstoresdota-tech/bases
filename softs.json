@@ -17,6 +17,105 @@
             "version": "2.0.0",
             "enabled": true,
             "premium": true
+        },
+        {
+            "id": "verizon_checker",
+            "name": "📱 Verizon Checker",
+            "description": "Check Verizon accounts",
+            "exe_path": "Apps/VerizonChecker/VerizonChecker.exe",
+            "version": "1.0.0",
+            "enabled": true,
+            "premium": true
+        },
+        {
+            "id": "hotmail_checker",
+            "name": "📧 Hotmail Checker",
+            "description": "Check Hotmail/Outlook accounts",
+            "exe_path": "Apps/HotmailChecker/HotmailChecker.exe",
+            "version": "1.0.0",
+            "enabled": true,
+            "premium": true
+        },
+        {
+            "id": "venmo_checker",
+            "name": "💳 Venmo Checker",
+            "description": "Check Venmo accounts",
+            "exe_path": "Apps/VenmoChecker/VenmoChecker.exe",
+            "version": "1.0.0",
+            "enabled": true,
+            "premium": true
+        },
+        {
+            "id": "tmobile_checker",
+            "name": "📶 T-Mobile Checker",
+            "description": "Check T-Mobile accounts",
+            "exe_path": "Apps/TMobileChecker/TMobileChecker.exe",
+            "version": "1.0.0",
+            "enabled": true,
+            "premium": true
+        },
+        {
+            "id": "att_checker",
+            "name": "📡 AT&T Checker",
+            "description": "Check AT&T accounts",
+            "exe_path": "Apps/ATT_Checker/ATT_Checker.exe",
+            "version": "1.0.0",
+            "enabled": true,
+            "premium": true
+        },
+        {
+            "id": "boost_checker",
+            "name": "📦 Boost Mobile Checker",
+            "description": "Check Boost Mobile accounts",
+            "exe_path": "Apps/BoostChecker/BoostChecker.exe",
+            "version": "1.0.0",
+            "enabled": true,
+            "premium": true
+        },
+        {
+            "id": "xfinity_checker",
+            "name": "📦 Xfinity Checker",
+            "description": "Check Xfinity/Comcast accounts",
+            "exe_path": "Apps/XfinityChecker/XfinityChecker.exe",
+            "version": "1.0.0",
+            "enabled": true,
+            "premium": true
+        },
+        {
+            "id": "expedia_checker",
+            "name": "✈️ Expedia Checker",
+            "description": "Check Expedia accounts",
+            "exe_path": "Apps/ExpediaChecker/ExpediaChecker.exe",
+            "version": "1.0.0",
+            "enabled": true,
+            "premium": true
+        },
+        {
+            "id": "spotify_checker",
+            "name": "📻 Spotify Checker",
+            "description": "Check Spotify accounts",
+            "exe_path": "Apps/SpotifyChecker/SpotifyChecker.exe",
+            "version": "1.0.0",
+            "enabled": true,
+            "premium": true
+        },
+        {
+            "id": "affirm_checker",
+            "name": "📦 Affirm Guagua",
+            "description": "Check Affirm accounts",
+            "exe_path": "Apps/AffirmChecker/AffirmChecker.exe",
+            "version": "1.0.0",
+            "enabled": true,
+            "premium": true
+        },
+        {
+            "id": "grainger_checker",
+            "name": "🛠️ Grainger.com Checker",
+            "description": "Check Grainger accounts",
+            "exe_path": "Apps/GraingerChecker/GraingerChecker.exe",
+            "version": "1.0.0",
+            "enabled": true,
+            "premium": true
         }
     ]
 }
