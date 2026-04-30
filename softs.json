@@ -10,6 +10,16 @@
             "premium": false,
             "download_url": "https://github.com/bstoresdota-tech/softs/raw/refs/heads/main/DomainExtractorPro.exe"
         },
+                {
+            "id": "softhub_cleaner",
+            "name": "🧹 SoftHub Cleaner",
+            "description": "Очистка TXT баз от рекламы и переименование",
+            "exe_path": "Apps/SoftHubCleaner/SoftHubCleaner.exe",
+            "version": "1.0.0",
+            "enabled": true,
+            "premium": false,
+            "download_url": "https://github.com/bstoresdota-tech/softs/raw/refs/heads/main/SoftHubCleaner.exe"
+        },
         {
             "id": "uber_checker",
             "name": "🚗 Uber Checker",
