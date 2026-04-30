@@ -7,7 +7,8 @@
             "exe_path": "Apps/DomainExtractorPro/DomainExtractorPro.exe",
             "version": "2.1.0",
             "enabled": true,
-            "premium": false
+            "premium": false,
+            "download_url": "https://github.com/bstoresdota-tech/softs/raw/refs/heads/main/DomainExtractorPro.exe"
         },
         {
             "id": "uber_checker",
@@ -16,7 +17,8 @@
             "exe_path": "Apps/UberChecker/UberChecker.exe",
             "version": "2.0.0",
             "enabled": true,
-            "premium": true
+            "premium": true,
+            "download_url": "https://github.com/bstoresdota-tech/softs/raw/refs/heads/main/UberChecker.exe"
         },
         {
             "id": "verizon_checker",
@@ -25,7 +27,8 @@
             "exe_path": "Apps/VerizonChecker/VerizonChecker.exe",
             "version": "1.0.0",
             "enabled": true,
-            "premium": true
+            "premium": true,
+            "download_url": "https://github.com/bstoresdota-tech/softs/raw/refs/heads/main/VerizonChecker.exe"
         },
         {
             "id": "hotmail_checker",
@@ -34,7 +37,8 @@
             "exe_path": "Apps/HotmailChecker/HotmailChecker.exe",
             "version": "1.0.0",
             "enabled": true,
-            "premium": true
+            "premium": true,
+            "download_url": "https://github.com/bstoresdota-tech/softs/raw/refs/heads/main/HotmailChecker.exe"
         },
         {
             "id": "venmo_checker",
@@ -43,7 +47,8 @@
             "exe_path": "Apps/VenmoChecker/VenmoChecker.exe",
             "version": "1.0.0",
             "enabled": true,
-            "premium": true
+            "premium": true,
+            "download_url": "https://github.com/bstoresdota-tech/softs/raw/refs/heads/main/VenmoChecker.exe"
         },
         {
             "id": "tmobile_checker",
@@ -52,7 +57,8 @@
             "exe_path": "Apps/TMobileChecker/TMobileChecker.exe",
             "version": "1.0.0",
             "enabled": true,
-            "premium": true
+            "premium": true,
+            "download_url": "https://github.com/bstoresdota-tech/softs/raw/refs/heads/main/TMobileChecker.exe"
         },
         {
             "id": "att_checker",
@@ -61,7 +67,8 @@
             "exe_path": "Apps/ATT_Checker/ATT_Checker.exe",
             "version": "1.0.0",
             "enabled": true,
-            "premium": true
+            "premium": true,
+            "download_url": "https://github.com/bstoresdota-tech/softs/raw/refs/heads/main/ATT_Checker.exe"
         },
         {
             "id": "boost_checker",
@@ -70,7 +77,8 @@
             "exe_path": "Apps/BoostChecker/BoostChecker.exe",
             "version": "1.0.0",
             "enabled": true,
-            "premium": true
+            "premium": true,
+            "download_url": "https://github.com/bstoresdota-tech/softs/raw/refs/heads/main/BoostChecker.exe"
         },
         {
             "id": "xfinity_checker",
@@ -79,7 +87,8 @@
             "exe_path": "Apps/XfinityChecker/XfinityChecker.exe",
             "version": "1.0.0",
             "enabled": true,
-            "premium": true
+            "premium": true,
+            "download_url": "https://github.com/bstoresdota-tech/softs/raw/refs/heads/main/XfinityChecker.exe"
         },
         {
             "id": "expedia_checker",
@@ -88,7 +97,8 @@
             "exe_path": "Apps/ExpediaChecker/ExpediaChecker.exe",
             "version": "1.0.0",
             "enabled": true,
-            "premium": true
+            "premium": true,
+            "download_url": "https://github.com/bstoresdota-tech/softs/raw/refs/heads/main/ExpediaChecker.exe"
         },
         {
             "id": "spotify_checker",
@@ -97,7 +107,8 @@
             "exe_path": "Apps/SpotifyChecker/SpotifyChecker.exe",
             "version": "1.0.0",
             "enabled": true,
-            "premium": true
+            "premium": true,
+            "download_url": "https://github.com/bstoresdota-tech/softs/raw/refs/heads/main/SpotifyChecker.exe"
         },
         {
             "id": "affirm_checker",
@@ -106,7 +117,8 @@
             "exe_path": "Apps/AffirmChecker/AffirmChecker.exe",
             "version": "1.0.0",
             "enabled": true,
-            "premium": true
+            "premium": true,
+            "download_url": "https://github.com/bstoresdota-tech/softs/raw/refs/heads/main/AffirmChecker.exe"
         },
         {
             "id": "grainger_checker",
@@ -115,7 +127,8 @@
             "exe_path": "Apps/GraingerChecker/GraingerChecker.exe",
             "version": "1.0.0",
             "enabled": true,
-            "premium": true
+            "premium": true,
+            "download_url": "https://github.com/bstoresdota-tech/softs/raw/refs/heads/main/GraingerChecker.exe"
         }
     ]
 }
