@@ -3,7 +3,7 @@
         {
             "id": "universal_email_checker",
             "name": "📧 IMAP / Outlook Universal Checker",
-            "description": "Проверка email:pass через IMAP и Microsoft. Парсинг инбокса: Steam, Netflix, PayPal, Amazon, Bank, Invoice, Receipt. Ротация прокси. 50 потоков.",
+            "description": "Email:pass checker. Supports IMAP + Microsoft. Parses inbox",
             "exe_path": "Apps/UniversalEmailChecker/UniversalEmailChecker.exe",
             "version": "1.0.0",
             "enabled": true,
