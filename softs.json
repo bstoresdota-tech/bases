@@ -1,6 +1,16 @@
 {
     "softs": [
         {
+            "id": "universal_email_checker",
+            "name": "📧 IMAP / Outlook Universal Checker",
+            "description": "Проверка email:pass через IMAP и Microsoft. Парсинг инбокса: Steam, Netflix, PayPal, Amazon, Bank, Invoice, Receipt. Ротация прокси. 50 потоков.",
+            "exe_path": "Apps/UniversalEmailChecker/UniversalEmailChecker.exe",
+            "version": "1.0.0",
+            "enabled": true,
+            "premium": true,
+            "download_url": "https://github.com/bstoresdota-tech/softs/raw/refs/heads/main/UniversalEmailChecker.exe"
+        },
+        {
             "id": "domain_extractor",
             "name": "🧩 Domain Extractor Pro",
             "description": "Filter and sort databases by domain",
@@ -10,7 +20,7 @@
             "premium": false,
             "download_url": "https://github.com/bstoresdota-tech/softs/raw/refs/heads/main/DomainExtractorPro.exe"
         },
-                {
+        {
             "id": "softhub_cleaner",
             "name": "🧹 SoftHub Cleaner",
             "description": "Очистка TXT баз от рекламы и переименование",
