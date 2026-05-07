@@ -1,18 +1,22 @@
 {
     "bases": [
         {
+            "id": "softhub_300mb",
             "name": "📁 30.04 SOFTHUB х300MB",
             "date": "30.04.2026",
             "size": "300 MB",
             "download_url": "https://mega.nz/folder/LvoXTbhZ#MwergkWWYDkWG3MYvMXhGA",
-            "premium": false
+            "premium": false,
+            "price_rub": 0
         },
         {
-            "name": "💎 30.04 SOFTHUB х1.2GB [ Private ]",
-            "date": "30.04.2026",
-            "size": "1.2 GB",
-            "download_url": "https://mega.nz/folder/LvoXTbhZ#MwergkWWYDkWG3MYvMXhGA",
-            "premium": true
+            "id": "softhub_private",
+            "name": "💎 SOFTHUB Private Base",
+            "date": "07.05.2026",
+            "size": "—",
+            "download_url": "https://mega.nz/file/HvRh0BhS#VYzDQMBnJm-CMvnNfcnwSXhPrAi351u6jRktWpsewuI",
+            "premium": true,
+            "price_rub": 2.00
         }
     ]
 }
