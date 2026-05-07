@@ -26,7 +26,7 @@
   {
     "id": "smtp_grabber",
     "name": "📧 SMTP Grabber Pro",
-    "description": "Извлекает SMTP из combo и .env файлов Laravel",
+    "description": "Извлекает рабочие SMTP из combo (email:password). Быстрый многопоточный граббер.",
     "version": "2.0.0",
     "premium": true,
     "category": "smtp_soft",
