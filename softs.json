@@ -22,5 +22,17 @@
     "download_url": "https://github.com/bstoresdota-tech/softs/raw/refs/heads/main/SoftHubCleaner.exe",
     "price_rub": 0,
     "rent_price_day": 0
+  },
+  {
+    "id": "smtp_grabber",
+    "name": "📧 SMTP Grabber Pro",
+    "description": "Извлекает SMTP из combo и .env файлов Laravel",
+    "version": "2.0.0",
+    "premium": true,
+    "category": "checkers",
+    "icon": "📧",
+    "download_url": "https://github.com/bstoresdota-tech/softs/raw/refs/heads/main/SMTP_Grabber_Pro.exe",
+    "price_rub": 90.00,
+    "rent_price_day": 3.00
   }
 ]
