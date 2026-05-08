@@ -3,6 +3,7 @@
     "id": "domain_extractor",
     "name": "🧩 Domain Extractor Pro",
     "description": "Filter and sort databases by domain",
+    "description_ru": "Фильтрация и сортировка баз данных по доменам",
     "version": "2.1.0",
     "premium": false,
     "category": "utils",
@@ -14,7 +15,8 @@
   {
     "id": "softhub_cleaner",
     "name": "🧹 SoftHub Cleaner",
-    "description": "Очистка TXT баз от рекламы",
+    "description": "Cleaning TXT databases from ads",
+    "description_ru": "Очистка TXT баз от рекламы",
     "version": "1.0.0",
     "premium": false,
     "category": "utils",
@@ -26,7 +28,8 @@
   {
     "id": "smtp_grabber",
     "name": "📧 SMTP Grabber Pro",
-    "description": "Извлекает рабочие SMTP из combo (email:password). Быстрый многопоточный граббер.",
+    "description": "Extracts working SMTP from combo (email:password). Fast multi-threaded grabber.",
+    "description_ru": "Извлекает рабочие SMTP из combo (email:password). Быстрый многопоточный граббер.",
     "version": "2.0.0",
     "premium": true,
     "category": "smtp_soft",
@@ -38,7 +41,8 @@
   {
     "id": "outlook_checker",
     "name": "📧 Outlook Checker",
-    "description": "Проверка Microsoft аккаунтов (Outlook/Hotmail). VALID/2FA/INVALID.",
+    "description": "Microsoft account checker (Outlook/Hotmail). VALID/2FA/INVALID.",
+    "description_ru": "Проверка Microsoft аккаунтов (Outlook/Hotmail). VALID/2FA/INVALID.",
     "version": "1.4.0",
     "premium": true,
     "category": "checkers",
