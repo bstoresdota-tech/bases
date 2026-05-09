@@ -50,5 +50,18 @@
     "download_url": "https://github.com/bstoresdota-tech/softs/releases/download/v1.1/OutlookChecker.exe",
     "price_rub": 140.00,
     "rent_price_day": 4.00
+  },
+  {
+    "id": "multi_checker",
+    "name": "🔐 MultiChecker Pro",
+    "description": "Universal combo checker: SSH, WordPress, cPanel, Proxy. Anti-public deduplicator. 5 tools in 1.",
+    "description_ru": "Универсальный чекер: SSH, WordPress, cPanel, Прокси. Анти-паблик дедубликатор. 5 инструментов в 1.",
+    "version": "3.1.0",
+    "premium": true,
+    "category": "checkers",
+    "icon": "🔐",
+    "download_url": "https://github.com/bstoresdota-tech/softs/releases/download/v1.3/MultiChecker.exe",
+    "price_rub": 140.00,
+    "rent_price_day": 12.00
   }
 ]
