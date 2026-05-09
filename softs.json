@@ -63,5 +63,18 @@
     "download_url": "https://github.com/bstoresdota-tech/softs/releases/download/v1.3/MultiChecker.exe",
     "price_rub": 140.00,
     "rent_price_day": 12.00
+  },
+  {
+    "id": "smtp_toolkit",
+    "name": "📧 SMTP Toolkit",
+    "description": "Laravel .env Scanner + SMTP Checker + Email Sender. Extract SMTP from websites, check combos, send mass emails with rotation.",
+    "description_ru": "Laravel .env Scanner + SMTP Checker + Email Sender. Извлечение SMTP из сайтов, проверка combo, массовая рассылка с ротацией.",
+    "version": "1.0.0",
+    "premium": true,
+    "category": "smtp_soft",
+    "icon": "📧",
+    "download_url": "https://github.com/bstoresdota-tech/softs/releases/download/v1.0.0/SMTP_Toolkit.exe",
+    "price_rub": 155.00,
+    "rent_price_day": 4.00
   }
 ]
