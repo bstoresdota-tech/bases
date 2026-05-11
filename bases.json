@@ -10,13 +10,22 @@
             "price_rub": 0
         },
         {
-            "id": "softhub_15m",
-            "name": "💎 SOFTHUB USA 15 500 000 Lines",
+            "id": "softhub_usa_15m",
+            "name": "💎 SOFTHUB USA 15M Lines",
             "date": "10.05.2026",
             "size": "600 MB",
             "download_url": "https://mega.nz/file/S64SmZBb#MDiWxKaiZRkJ469GwH9VBBaQiVDVVGf9UawbMh5hr3c",
             "premium": true,
-            "price_rub": 55.00
+            "price_rub": 30.00
+        },
+        {
+            "id": "softhub_semi_private",
+            "name": "💎 SOFTHUB Semi-Private Base (16 Files)",
+            "date": "11.05.2026",
+            "size": "—",
+            "download_url": "https://mega.nz/folder/rzJh1DLB#1LljSnonN2WB_D8DhLtIzg",
+            "premium": true,
+            "price_rub": 3.00
         }
     ]
 }
