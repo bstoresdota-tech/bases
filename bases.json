@@ -1,6 +1,15 @@
 {
     "bases": [
         {
+            "id": "softhub_france_80m",
+            "name": "🇫🇷 SOFTHUB France 79 984 192 Lines",
+            "date": "12.05.2026",
+            "size": "2.7 GB",
+            "download_url": "https://mega.nz/file/PnIVhCKD#sTsdnk35x5rMnHgmQCd8j21e5JzMxQimTfT1hwYTu9I",
+            "premium": true,
+            "price_rub": 145.00
+        },
+        {
             "id": "softhub_germany_53m",
             "name": "SOFTHUB Germany 53 678 760 Lines",
             "date": "12.05.2026",
