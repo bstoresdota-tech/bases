@@ -1,6 +1,15 @@
 {
     "bases": [
         {
+            "id": "softhub_germany_53m",
+            "name": "SOFTHUB Germany 53 678 760 Lines",
+            "date": "12.05.2026",
+            "size": "1.75 GB",
+            "download_url": "https://mega.nz/file/H6QxkJwK#4gsbgeW0NQdMRMyQxFKusfK6RxQL37NGh7mJrwjEaJg",
+            "premium": true,
+            "price_rub": 165.00
+        },
+        {
             "id": "softhub_300mb",
             "name": "📁 30.04 SOFTHUB х300MB",
             "date": "30.04.2026",
