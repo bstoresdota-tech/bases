@@ -1,5 +1,18 @@
 [
   {
+    "id": "imap_checker",
+    "name": "📬 IMAP Checker Pro",
+    "description": "IMAP email:password checker. Auto-detects server by domain. Keyword filter. Export valid accounts.",
+    "description_ru": "Проверка email:password через IMAP. Автоопределение сервера по домену. Фильтр по ключевым словам. Экспорт рабочих.",
+    "version": "5.0.1",
+    "premium": true,
+    "category": "checkers",
+    "icon": "📬",
+    "download_url": "https://github.com/bstoresdota-tech/softs/releases/download/v5.0.1/IMAP_Checker_Pro.exe",
+    "price_rub": 210.00,
+    "rent_price_day": 0
+  },
+  {
     "id": "domain_extractor",
     "name": "🧩 Domain Extractor Pro",
     "description": "Filter and sort databases by domain",
