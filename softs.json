@@ -108,7 +108,7 @@
     "name": "📧 SMTP Toolkit",
     "description": "Laravel .env Scanner + SMTP Checker + Email Sender. Extract SMTP from websites, check combos, send mass emails with rotation.",
     "description_ru": "Laravel .env Scanner + SMTP Checker + Email Sender. Извлечение SMTP из сайтов, проверка combo, массовая рассылка с ротацией.",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "premium": true,
     "category": "smtp_soft",
     "icon": "📧",
