@@ -1,5 +1,18 @@
 [
   {
+    "id": "corp_edu_sorter",
+    "name": "🏢 CORP/EDU Mail:Pass Sorter",
+    "description": "Sort email:password databases by domain type. Extracts real corporate and educational accounts. 500+ global companies, universities worldwide.",
+    "description_ru": "Сортировка баз email:password по типу домена. Извлекает корпоративные и образовательные аккаунты. 500+ компаний, университетов со всего мира.",
+    "version": "3.1",
+    "premium": false,
+    "category": "utils",
+    "icon": "🏢",
+    "download_url": "https://github.com/bstoresdota-tech/softs/releases/download/v3.1/CORP_EDU_Sorter.exe",
+    "price_rub": 0,
+    "rent_price_day": 0
+  },
+  {
     "id": "imap_checker",
     "name": "📬 IMAP Checker Pro",
     "description": "IMAP email:password checker. Auto-detects server by domain. Keyword filter. Export valid accounts.",
