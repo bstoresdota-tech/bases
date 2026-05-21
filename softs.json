@@ -1,5 +1,18 @@
 [
   {
+    "id": "url_mailpass_extractor",
+    "name": "🔗 URL/MAIL:PASS Sorter Extractor",
+    "description": "Extract mail:pass and URLs from databases. Search by URL keyword. Filter by email domain.",
+    "description_ru": "Извлечение mail:pass и URL из баз. Поиск по ключевому слову в URL. Фильтр по домену почты.",
+    "version": "6.1",
+    "premium": false,
+    "category": "utils",
+    "icon": "🔗",
+    "download_url": "https://github.com/bstoresdota-tech/softs/releases/download/v6.1/URL_MailPass_Extractor.exe",
+    "price_rub": 0,
+    "rent_price_day": 0
+  },
+  {
     "id": "corp_edu_sorter",
     "name": "🏢 CORP/EDU Mail:Pass Sorter",
     "description": "Sort email:password databases by domain type. Extracts real corporate and educational accounts. 500+ global companies, universities worldwide.",
