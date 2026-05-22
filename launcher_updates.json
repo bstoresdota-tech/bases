@@ -1,5 +1,5 @@
 {
-    "version": "9.1.0",
-    "download_url": "https://github.com/bstoresdota-tech/bases/releases/download/v9.1.0/SoftHubLauncher.exe",
-    "changelog": ""
+    "version": "9.1.2",
+    "download_url": "https://github.com/bstoresdota-tech/bases/releases/download/v9.1.2/SoftHubLauncher.exe",
+    "changelog": "Исправлено автообновление. Кнопка Update для софтов."
 }
