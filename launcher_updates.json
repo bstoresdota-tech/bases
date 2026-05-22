@@ -1,5 +1,5 @@
 {
-    "version": "9.1.2",
-    "download_url": "https://github.com/bstoresdota-tech/bases/releases/download/v9.1.2/SoftHubLauncher.exe",
-    "changelog": "Исправлено автообновление. Кнопка Update для софтов."
+    "version": "9.1.3",
+    "download_url": "https://github.com/bstoresdota-tech/bases/releases/download/v9.1.3/SoftHubLauncher.exe",
+    "changelog": "🗃 Database Parser — order by domain. 🔔 Notifications. 📥 Download 7 days. ↩️ Refund on reject."
 }
