@@ -1,5 +1,5 @@
 {
-    "version": "9.1.1",
-    "download_url": "https://github.com/bstoresdota-tech/bases/releases/download/v9.1.1/SoftHubLauncher.exe",
-    "changelog": "Кнопка Обновить для софтов. Поддержка | разделителя в SMTP Toolkit. Автоопределение SMTP."
+    "version": "9.1.0",
+    "download_url": "https://github.com/bstoresdota-tech/bases/releases/download/v9.1.0/SoftHubLauncher.exe",
+    "changelog": ""
 }
