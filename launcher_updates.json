@@ -1,5 +1,5 @@
 {
     "version": "9.1.5",
     "download_url": "https://github.com/bstoresdota-tech/bases/releases/download/v9.1.5/SoftHubLauncher.exe",
-    "changelog": "✅ Добавлена кнопка получения логина в Telegram (@Cloudvisualbot)\n✅ Убрана регистрация из приложения\n✅ Исправлены мелкие баги"
+    "changelog": "✅ Добавлена кнопка получения логина в Telegram (@Cloudvisualbot)\n✅ Убрана регистрация из приложения\n✅ Исправлены мелкие баги\n🔧 Исправлена ошибка бесконечного обновления"
 }
